@@ -1,2 +1,2 @@
 # CapstoneProject1
-Ini adalah capstone project pertama kali
+Ini adalah capstone project pertama saya
